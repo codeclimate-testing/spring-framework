@@ -8,6 +8,8 @@ engines:
     config:
       languages:
         - java
+  codenarc:
+    enabled: true
 ratings:
   paths:
     - "**.java"
